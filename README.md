@@ -13,8 +13,8 @@ To run the fitting, you need a Matlab toolbox called "DRAM": DRAM is a combinati
 About code folder: We used ”Fitting” folder to estimate parameters for the first wave of COVID-19 in 2020 in mainland China, “SimulationPrevious” folder to perform simulations evaluating the effect of previous zero-COVID strategy (social distancing, travel ban and vaccination) during the Omicron wave in China, and “SimulationTesting” folder to perform simulations investigating the effect of population-level testing with or without travel ban on Omicron and future SARS-CoV-2 wave. The setting of the fixed parameters can be found in the main text and supplemented material.
 
 ## Data
-The COVID-19 case data
+### The COVID-19 case data
 We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 305 city-level units, the website’s links are provided 9. Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
 
-Human mobility data
+### Human mobility data
 Human movement in China can be observed directly from mobile phone data, through the Baidu location-based services (LBS). Both the recorded movements and relative volume of inflows, outflows, inner movement among cities (n=30558), were obtained from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. 
