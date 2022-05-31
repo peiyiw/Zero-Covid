@@ -14,7 +14,7 @@ About code folder: We used ”Fitting” folder to estimate parameters for the f
 
 ## Data
 ### The COVID-19 case data
-We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 305 city-level units, the website’s links are provided 9. Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
+We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 305 city-level units, the website’s links are provided in Tian, H. et al (2020). Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
 
 ### Human mobility data
 Human movement in China can be observed directly from mobile phone data, through the Baidu location-based services (LBS). Both the recorded movements and relative volume of inflows, outflows, inner movement among cities (n=30558), were obtained from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. 
