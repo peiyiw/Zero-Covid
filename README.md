@@ -10,7 +10,7 @@ To adapt to the evolution of SARS-CoV-2, the zero-COVID strategy in China is cha
 ## Notes on the code
 To run the fitting, you need a Matlab toolbox called "DRAM": DRAM is a combination of two ideas for improving the efficiency of Metropolis-Hastings type Markov chain Monte Carlo (MCMC) algorithms, Delayed Rejection and Adaptive Metropolis. This page explains the basic ideas behind DRAM and provides examples and Matlab code for the computations.(see http://helios.fmi.fi/~lainema/dram/)
 
-About code folder: We used ”Fitting” folder to estimate parameters for the first wave of COVID-19 in 2020 in China, “SimulationNPI” folder to perform simulations evaluating the effect of previous zero-COVID strategy against Wuhan-Hu-1 with combination of social distancing, and “SimulationTesting” folder to perform simulations investigating the effect of population-level testing with or without travel ban on Omicron and future SARS-CoV-2 wave. The setting of the fixed parameters can be found in the main text and supplemented material.
+About code folder: We used ”Fitting” folder to estimate parameters for the first wave of COVID-19 in 2020 in mainland China, “SimulationNPI” folder to perform simulations evaluating the effect of previous zero-COVID strategy (social distancing, travel ban and vaccination) during the Omicron wave in China, and “SimulationTesting” folder to perform simulations investigating the effect of population-level testing with or without travel ban on Omicron and future SARS-CoV-2 wave. The setting of the fixed parameters can be found in the main text and supplemented material.
 
 ## Data
 The COVID-19 case data
