@@ -14,7 +14,7 @@ About code folder: We used ”Fitting” folder to estimate parameters for the f
 
 ## Data
 ### Epidemiological data
-We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 36605 city-level units, the website’s links are provided 16. Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
+We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 366 city-level units, the website’s links are provided in Tian, H. et al, 2020. Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
 
 
 ### Human mobility data
