@@ -1,11 +1,11 @@
 # Zero-Covid
-Code for: Effect of changing zero-COVID strategy on Omicron and future SARS-CoV-2 wave in mainland China
+Code for: Quantitative assessment of zero-COVID strategy in mainland China
 
 ## Citation
-Effect of changing zero-COVID strategy on Omicron and future SARS-CoV-2 wave in mainland China
+Quantitative assessment of zero-COVID strategy in mainland China
 
 ## Abstract
-To adapt to the evolution of SARS-CoV-2, the zero-COVID strategy in China is changing from strict lockdown to population-level testing and has been successful in combating the SARS-CoV-2 spread. However, it is unknown whether and how long this strategy still works for Omicron and future wave. To address this question, we develop a meta-population transmission dynamic model including population-level testing based on 398 million travel movements among 305 Chinese cities. We show that Omicron outbreak is difficult to contain by the control measures implemented during the first COVID-19 wave and vaccines. Travel ban has limited effects on preventing the dissemination of SARS-CoV-2, but it can significantly reduce the epidemic duration if carried out in an appropriate time window. As an active surveillance measure, population-level testing is critical to curtail the nationwide Omicron wave and future SARS-CoV-2 wave. Before effective vaccines and anti-virus treatments coming into the market, zero-COVID strategy is still necessary to reduce the COVID-19 burden in China. 
+Although the zero-COVID strategy in China has been successful in combating series of SARS-CoV-2 variants, arguments for its benefit and negative consequence are increasing but seldom quantitatively assessed. Here, we develop a metapopulation model, based on 419 million travel movements among 366 Chinese cities with population-level testing, contact contracting and isolating, to explore sustainability of current strategy. We find that original control measures hardly contain Omicron outbreak even with full-dose vaccination and lockdown  . As a pillar of zero-COVID strategy, instituting population-level testing with a less than 3 days interval is critical to achieve zero-COVID under Omicron wave even lifting lockdown  . The expected value of perfect information analysis indicates that the 2-day testing interval is optimal after considering the uncertainty in transmissibility of the future wave. Our findings provide important information for future self-monitoring based pandemic responsiveness.
 
 ## Notes on the code
 To run the fitting, you need a Matlab toolbox called "DRAM": DRAM is a combination of two ideas for improving the efficiency of Metropolis-Hastings type Markov chain Monte Carlo (MCMC) algorithms, Delayed Rejection and Adaptive Metropolis. This page explains the basic ideas behind DRAM and provides examples and Matlab code for the computations.(see http://helios.fmi.fi/~lainema/dram/)
