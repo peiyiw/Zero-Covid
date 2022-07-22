@@ -18,4 +18,4 @@ We collected the daily official case reports from the health commission of 34 pr
 
 
 ### Human mobility data
-Human movement in China can be observed directly from mobile phone data, through the Baidu location-based services (LBS). Both the recorded movements and relative volume of inflows, outflows, inner movement among cities (n=366), were obtained from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. We consider the averaged travel flow in 2019 as the flow of baseline, and construct a flow network across 366 cities in China to simulate the SARS-CoV-2 transmission across cities in China.
+Human movement in China can be observed directly using mobile phone data with Baidu location-based services. We obtained both the recorded movements and relative volume of inflows, outflows, and internal movement among cities (n=366) from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. We considered the averaged travel flow in 2019 as the flow at baseline and constructed a flow network across 366 cities in China to simulate SARS-CoV-2 transmission across Chinese cities.
