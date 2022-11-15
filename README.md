@@ -11,7 +11,7 @@ During the past three years of the COVID-19 pandemic, many countries have experi
 
 ## Software Requirements
 The COVID-19 burden analysis was performed using R4.0.5, and the fitting/simulation was performed using MATLAB R2021b on a Microsoft Windows Server version 1607(14393.447).  
-It takes about 3 hours to fit the model and 10 minitures to run a simulation on a machine with the recommended specs.
+It takes about 3 hours to fit the model and 20 minitures to run a simulation on a machine with the recommended specs.
 
 ## Matlab Dependencies
 To run the fitting, you need a Matlab toolbox called "mcmcstat" available from https://mjlaine.github.io/mcmcstat/. It implements DRAM algorithm, which is a combination of two ideas for improving the efficiency of Metropolis-Hastings type Markov chain Monte Carlo (MCMC) algorithms, Delayed Rejection and Adaptive Metropolis. The mcmcstat toolbox documentation can be found at https://mjlaine.github.io/mcmcstat/.
