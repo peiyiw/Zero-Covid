@@ -21,8 +21,10 @@ To run the fitting, you need a Matlab toolbox called "mcmcstat" available from h
 
 ### R dependencies
 Users should install the following packages prior to performing COVID-19 burden analysis, from an R terminal:
--install.packages(c('ggplot2', 'abind', 'irlba', 'knitr', 'rmarkdown', 'latex2exp', 'MASS', 'randomForest'))
-  
+```
+install.packages(c('ggplot2', 'abind', 'irlba', 'knitr', 'rmarkdown', 'latex2exp', 'MASS', 'randomForest'))
+```
+
 ## Notes on the code
 
 
