@@ -28,7 +28,8 @@ install.packages(c('ggplot2', 'openxlsx', 'lubridate', 'reshape2', 'scales', 'Rm
 ## Notes on the code
 
 
-About code folder: We used ”Fitting2020” folder to estimate parameters for the first wave of COVID-19 in 2020 in mainland China, “Simulation2020” folder to perform simulations evaluating the effect of zero-COVID strategy implemented in 2020 (social distancing, travel ban) on Omicron wave, “SimulationTesting” folder to perform simulations investigating the effect of population-level testing on Omicron wave, and "COVID-19 burden" folder to quantitatively assesse disease burden burden of COVID-19 on Omicron wave taking unerlying health condition into account. The setting of the fixed parameters can be found in the main text and supplementary material.
+About code folder: We used ”Fitting2020” folder to estimate parameters for the first wave of COVID-19 in 2020 in mainland China, “Simulation2020” folder to perform simulations evaluating the effect of zero-COVID strategy implemented in 2020 (social distancing, travel ban) on Omicron wave, “SimulationTesting” folder to perform simulations investigating the effect of population-level testing on Omicron wave, and "COVID-19 burden" folder to quantitatively assesse disease burden burden of COVID-19 on Omicron wave taking unerlying health condition into account. The setting of the fixed parameters can be found in the main text and supplementary material. The mcmcchain (20w reserved) of fitting and the results of simulation were stroed in the "Output" folder .
+
 
 ## Data
 ### Epidemiological data
