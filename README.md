@@ -13,7 +13,7 @@ During the past three years of the COVID-19 pandemic, many countries have experi
 
 ## System requirements
 ### Versions of the software
-The COVID-19 burden analysis was performed using R4.0.5, and the fitting/simulation was performed using MATLAB R2021b on a Microsoft Windows Server version 1607(14393.447).  
+The COVID-19 burden analysis was performed using R 4.0.5, and the fitting/simulation was performed using MATLAB R2021b on a Microsoft Windows Server version 1607(14393.447).  
 It takes about 3 hours to fit the model and 20 minutes to run the simulation on a machine with the recommended specs.
 
 ### Matlab dependencies
