@@ -1,10 +1,10 @@
 # Zero-Covid
-Code for: Criteria for the maintenance of zero COVID in China: a large-scale modelling study
+Code for: Criteria for the maintenance of zero-COVID and exit strategy of COVID-19 pandemic in China: a large-scale modelling study
 
 
 
 ## Citation
-Criteria for the maintenance of zero COVID in China: a large-scale modelling study
+Criteria for the maintenance of zero-COVID and exit strategy of COVID-19 pandemic in China: a large-scale modelling study
 
 
 
