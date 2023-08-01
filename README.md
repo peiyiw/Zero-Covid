@@ -33,8 +33,16 @@ About code folder: We used ”Fitting2020” folder to estimate parameters for t
 
 ## Data
 ### Epidemiological data
-We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 366 city-level units, the website’s links are provided in Tian, H. et al, 2020. Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/).
+Demographic data for each city were collected from the China City Statistical Yearbook 2019 (http://olap.epsnet.com.cn/). 
+
+We collected the daily official case reports from the health commission of 34 provincial-level administrative units and 366 city-level units, the website’s links are provided in Tian, H. et al, 2020.  
+
+To use or reference this data, please cite the aforementioned publication:
+
+Tian, Huaiyu, et al. "An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China." Science 368.6491 (2020): 638-642.
 
 
 ### Human mobility data
 Human movement in China can be observed directly using mobile phone data with Baidu location-based services. We obtained both the recorded movements and relative volume of inflows, outflows, and internal movement among cities (n=366) from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. We considered the averaged travel flow in 2019 as the flow at baseline and constructed a flow network across 366 cities in China to simulate SARS-CoV-2 transmission across Chinese cities.
+
+The human mobility data that support the findings of this study are available on request from the Baidu location-based services (Baidu Online Network Technology (Beijing) Co.,Ltd., http://qianxi.baidu.com/).
