@@ -45,4 +45,4 @@ Tian, Huaiyu, et al. "An investigation of transmission control measures during t
 ### Human mobility data
 Human movement in China can be observed directly using mobile phone data with Baidu location-based services. We obtained both the recorded movements and relative volume of inflows, outflows, and internal movement among cities (n=366) from the migration flows database (http://qianxi.baidu.com/) from 1 January 2019 to 1 April 2020. We considered the averaged travel flow in 2019 as the flow at baseline and constructed a flow network across 366 cities in China to simulate SARS-CoV-2 transmission across Chinese cities.
 
-The human mobility data that support the findings of this study are available on request from the Baidu location-based services (Baidu Online Network Technology (Beijing) Co.,Ltd., http://qianxi.baidu.com/).
+The human mobility data that support the findings of this study are available from the Baidu location-based services (http://qianxi.baidu.com/). 
